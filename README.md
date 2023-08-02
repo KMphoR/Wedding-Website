@@ -1,5 +1,5 @@
 # Wedding-Website
-The aim here is to provide needed information as to the wedding as well as fun details such as backstory of the couple. This means that the website must be aesthetically pleasing and well-laid out.
+The aim here is to provide needed information as to the wedding as well as fun details such as backstory of the couple. The website is aesthetically pleasing and well-laid out.
 
 # Outline
 To create a simple and clean home page that adheres to best practices and is HTML5 compliant, I will implement the following elements:
